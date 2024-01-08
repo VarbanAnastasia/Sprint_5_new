@@ -1,4 +1,4 @@
-import time
+
 from random import randint
 
 from selenium.webdriver.support.ui import WebDriverWait
